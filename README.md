@@ -13,7 +13,7 @@ Main features are:
 
 ## Example:
 
-```
+```python
 from airflow import DAG
 from smart_transfer.smart_transfer import SmartTransfer
 
