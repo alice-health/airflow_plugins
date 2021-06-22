@@ -5,10 +5,10 @@ The SmartTransfer plugin is a easy and self contained way to transfer tables bet
 It's a very good solution for simple cases when you need to copy a table from a database to another.
 
 Main features are:
-- Very simples to use
-- Don't need extra libraries or packages (simples insert commands)
-- Creates the table in the destination database automactly 
-- Checks for changes in the source table structure and recreates the destination table if necessary.
+- Very simple to use
+- Don't need extra libraries or packages (simple insert commands)
+- Creates the table in the destination database automatically 
+- Checks for changes in the source table structure and recreates the destination table if necessary
 - Can handle tables up to millions of lines 
 
 ## Example:
