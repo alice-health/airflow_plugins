@@ -1,6 +1,6 @@
 # Smart Transfer Airflow Plugin
 
-The SmartTransfer plugin is a easy and self contained way to transfer tables between two databases, with minimal configuration and efforts. 
+The SmartTransfer plugin is an easy and self contained way to transfer tables between two databases, with minimal configuration and efforts. 
 
 It's a very good solution for simple cases when you need to copy a table from a database to another.
 
